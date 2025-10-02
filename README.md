@@ -3,7 +3,8 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 *   🌍  I'm based in Ulaanbator
 *   ✉️  You can contact me at [xap.odd@gmail.com](mailto:xap.odd@gmail.com)
-*   🧠  I'm learning Java Skills 
+*   🧠  I'm learning Java Skills
+*   📕  Graduated ICode Academy
 <p align="left">
   
 ![image](https://github.com/user-attachments/assets/03ab99e5-cc3f-462d-b4ce-7e66a99c1cc9)
